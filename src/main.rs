@@ -1,7 +1,4 @@
-//use rand::prelude::*;
 use ndarray::Array2;
-//use rand_chacha::ChaCha8Rng;
-//
 mod activation_layer;
 mod activations;
 mod dense_layer;
